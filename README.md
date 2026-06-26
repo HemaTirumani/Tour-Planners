@@ -460,8 +460,3 @@ LinkedIn: Add LinkedIn URL
 
 Portfolio: Add Portfolio URL
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
